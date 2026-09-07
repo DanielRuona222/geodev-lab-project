@@ -1,6 +1,6 @@
-#My Project
+My Project
 
-##THE QUESTION 
+THE QUESTION 
 
 SPATIAL AND TEMPORAL ASSESSMENT OF LAND SURFACE TEMPERATURE CHANGES WITH DISTANCE FROM OIL AND GAS DRILLING SITES (WELLS)
 
@@ -31,7 +31,7 @@ their relationship with distance from drilling sites (wells).
 
 
 
-##WHY IT MATTERS
+WHY IT MATTERS
 
 The project matters because oil and gas drilling changes the land surface, through activities such as site clearing, construction of access roads and well pads, vegetation removal, 
 and associated industrial operations. These changes can alter how the land absorbs and releases heat. This project can serve as an environmental monitoring system, early detection system,
@@ -39,7 +39,7 @@ reduce the need for manual analysis.
 
 ‎
 
-‎##THE DATASET NEEDED
+‎THE DATASET NEEDED
 
 ‎-NODSRA Oil spill monitor for Coordinates of well location for study area https://oilspillmonitor.ng/
 
@@ -51,7 +51,7 @@ CHIRPS for rainfall data https://www.chc.ucsb.edu/data/chirps
 
 
 
-##WHAT I WOULD BUILD
+WHAT I WOULD BUILD
 
 Beyond the analysis, the project will use satellite data, oil/gas well locations, and environmental variables to assess how LST changes with distance from wells and before/after drilling. 
 The analysis will then be converted into a semi-automated monitoring system that periodically processes new satellite data, detects unusual LST changes around wells, and displays the results
