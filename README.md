@@ -1,2 +1,3 @@
-# geodev-lab-project
+My GeoDev-lab-project
 SPATIAL AND TEMPORAL ASSESSMENT OF LAND SURFACE TEMPERATURE CHANGES WITH DISTANCE FROM OIL AND GAS DRILLING SITES (WELLS)
+Built over twelve months with GeoDev Lab Africa, Cohort One.
