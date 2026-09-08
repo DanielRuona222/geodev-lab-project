@@ -16,7 +16,7 @@ Oil spills can damage vegetation and ecosystem in the Nigeria Delta, but it is o
 
 ‎-NODSRA Oil spill monitor for information  of spill site location for study area https://oilspillmonitor.ng/
 
--Sentinel-2 and Landsat 8/9 via Google earth engine for NDVI , NDMI and LST
+-Sentinel-2 and Landsat 8/9 via Google earth engine for NDVI , NDMI and LST https://earthengine.google.com/
 
 -CHIRPS for Rainfall data https://www.chc.ucsb.edu/data/chirps
 
