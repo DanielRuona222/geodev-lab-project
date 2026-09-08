@@ -1,65 +1,32 @@
-My Project
-
 THE QUESTION 
 
-SPATIAL AND TEMPORAL ASSESSMENT OF LAND SURFACE TEMPERATURE CHANGES WITH DISTANCE FROM OIL AND GAS DRILLING SITES (WELLS)
-
-‎This project aims to assess spatial and temporal changes in Land Surface Temperature (LST) before and after oil and gas drilling activities and examine
-their relationship with distance from drilling sites (wells).
+SPATIOTEMPORAL ASSESSMENT OF VEGETATION RECOVERY FOLLOWING DOCUMENTED OIL SPILLS IN NIGER DELTA, NIGERIA
 
 ‎
-
-‎It basically answers two questions 
-
-‎1. Does LST vary with proximity to oil/gas wells?
-
-‎2. Did LST change following the drilling activity?
-
-‎
-
-‎LST is dependent on several factors, so this project will take into account some of the factors, including:
-
-‎-Normalized Difference Built-up Index (NDBI) for built-up areas
-
-‎-Normalized Difference Moisture Index (NDMI) for soil moisture
-
-‎-Normalized Difference Vegetation Index (NDVI) for vegetation
-
-‎-Land use/ Land cover
-
-‎-Rainfall
 
 
 
 WHY IT MATTERS
 
-The project matters because oil and gas drilling changes the land surface, through activities such as site clearing, construction of access roads and well pads, vegetation removal, 
-and associated industrial operations. These changes can alter how the land absorbs and releases heat. This project can serve as an environmental monitoring system, early detection system,
-reduce the need for manual analysis.
+Oil spills can damage vegetation and ecosystem in the Nigeria Delta, but it is often difficult to continuously determine whether affected areas are recovering after a spill. This project matters because it will provide a geospatial system for monitoring vegetation recovery over time using satellite imagery and documented spill records 
 
 ‎
 
 ‎THE DATASET NEEDED
 
-‎-NODSRA Oil spill monitor for Coordinates of well location for study area https://oilspillmonitor.ng/
+‎-NODSRA Oil spill monitor for information  of spill site location for study area https://oilspillmonitor.ng/
 
-Landsat8/9 Collection 2 Level-2 via GEE for LST, NDVI, NDBI   https://developers.google.com/earth-engine/datasets/catalog/landsat-8
+-Sentinel-2 and Landsat 8/9 via Google earth engine for NDVI , NDMI and LST
 
-Dynamic world for LULC https://dynamicworld.app/explore
+-CHIRPS for Rainfall data https://www.chc.ucsb.edu/data/chirps
 
-CHIRPS for rainfall data https://www.chc.ucsb.edu/data/chirps
+-Dynanic world for data on Land use/Land cover https://dynamicworld.app/explore/
+
+
 
 
 
 WHAT I WOULD BUILD
 
-Beyond the analysis, the project will use satellite data, oil/gas well locations, and environmental variables to assess how LST changes with distance from wells and before/after drilling. 
-The analysis will then be converted into a semi-automated monitoring system that periodically processes new satellite data, detects unusual LST changes around wells, and displays the results
-on a dashboard with potential alerts.
-
-
-
-‎
-
-
+This project proposes the development of a geospatial system for continuously monitoring vegetation recovery following documented oil spills in the Niger Delta, Nigeria. The system will integrate NOSDRA oil-spill records with Landsat and Sentinel-2 satellite imagery to assess vegetation conditions before and after spill events using indicators such as NDVI and NDMI. The developed system will automatically track vegetation changes, calculate recovery levels, and present the results through an interactive GIS platform. The study will serve as the foundation and prototype for a continuously updated monitoring and decision-support system that can identify areas of poor recovery and support environmental management and remediation efforts.
 
