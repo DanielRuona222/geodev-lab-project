@@ -1,45 +1,47 @@
-‎Week 2 Data Note
-‎
+Week 2 Data Note
 
-‎Dataset: Crude oil spill points
-‎
+Dataset: Crude Oil Spill Points
 
-‎Source: NODSRA Oil Spill Monitor
-‎
+Source: NODSRA Oil Spill Monitor
 
-‎Source link: https://nosdra.oilspillmonitor.ng/oilspillmonitor.html
-‎
+Source link: https://nosdra.oilspillmonitor.ng/oilspillmonitor.html
 
-‎Number of features: 3
-‎
+Dataset Description
 
-‎Geometry type: Point
-‎
+This dataset contains the locations and information of reported crude oil spill incidents in Nigeria. The spatial data represents individual spill incidents as point features, with each point corresponding to a recorded spill location.
 
-‎Key columns
+Number of features: 3
 
-‎- ID 
+Geometry type: Point
 
-‎- Latitude
+Key Attributes
 
-‎- Longitude 
+- ID – unique identifier for each spill incident
 
-‎- Incident date
+- Latitude / Longitude – geographic coordinates of the spill
+  
+- Incident date – date the spill was reported/occurred
+  
+- Spill stop date – date the spill was stopped
+  
+- Estimated quantity of spill – estimated volume of crude oil spilled
+  
+- Estimated area – estimated area affected by the spill
+  
+- Estimated quantity recovered – estimated quantity of oil recovered
+  
+- State – state where the incident occurred
+  
+- LGA – Local Government Area where the incident occurred
 
-‎- Spill stop date
+QGIS Observation
 
-‎- Estimated quantity of spill
+The dataset was successfully imported and opened in QGIS. The spill locations were displayed as point features, confirming that the geographic coordinates were correctly represented spatially.
 
-‎- Estimated area
+Relevance to My Project
 
-‎- Estimated quantity recovered
+The dataset provides geospatial information on oil spill locations that can be used for spatial analysis of environmental incidents. 
 
-‎- State
+Data Acquisition
 
-‎- LGA
-‎
-
-‎QGIS observation
-
-‎The dataset was successfully opened in QGIS and the spill locations were displayed as point features.
-‎
+The dataset was obtained from the NODSRA Oil Spill Monitor as part of the Week 2 data acquisition process. The data was subsequently inspected and visualized in QGIS to confirm its structure and spatial representation.
