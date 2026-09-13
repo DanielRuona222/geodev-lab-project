@@ -17,18 +17,29 @@
 ‎
 
 ‎Key columns
+
 ‎- ID 
+
 ‎- Latitude
+
 ‎- Longitude 
+
 ‎- Incident date
+
 ‎- Spill stop date
+
 ‎- Estimated quantity of spill
+
 ‎- Estimated area
+
 ‎- Estimated quantity recovered
+
 ‎- State
+
 ‎- LGA
 ‎
 
 ‎QGIS observation
+
 ‎The dataset was successfully opened in QGIS and the spill locations were displayed as point features.
 ‎
