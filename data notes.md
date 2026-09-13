@@ -1,16 +1,22 @@
-‎# Week 2 Data Note
+‎Week 2 Data Note
 ‎
-‎## Dataset: Crude oil spill points
+
+‎Dataset: Crude oil spill points
 ‎
-‎**Source:** NODSRA Oil Spill Monitor
+
+‎Source: NODSRA Oil Spill Monitor
 ‎
-‎**Source link:** https://nosdra.oilspillmonitor.ng/oilspillmonitor.html
+
+‎Source link: https://nosdra.oilspillmonitor.ng/oilspillmonitor.html
 ‎
-‎**Number of features:** 3
+
+‎Number of features: 3
 ‎
-‎**Geometry type:** Point
+
+‎Geometry type: Point
 ‎
-‎### Key columns
+
+‎Key columns
 ‎- ID 
 ‎- Latitude
 ‎- Longitude 
@@ -22,6 +28,7 @@
 ‎- State
 ‎- LGA
 ‎
-‎### QGIS observation
+
+‎QGIS observation
 ‎The dataset was successfully opened in QGIS and the spill locations were displayed as point features.
 ‎
