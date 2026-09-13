@@ -6,6 +6,8 @@ Source: NODSRA Oil Spill Monitor
 
 Source link: https://nosdra.oilspillmonitor.ng/oilspillmonitor.html
 
+Open street maps via QuickOSM plugin in QGIS
+
 Dataset Description
 
 This dataset contains the locations and information of reported crude oil spill incidents in Nigeria. The spatial data represents individual spill incidents as point features, with each point corresponding to a recorded spill location.
